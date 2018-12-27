@@ -3,4 +3,4 @@
 
 <strong>Email:</strong> <br/> katelynblomer@gmail.com
 
-<strong>Portfolio Link:</strong> <br/>
+<strong>Portfolio Link:</strong> <br/>https://jkblomer.github.io/Portfolio/
